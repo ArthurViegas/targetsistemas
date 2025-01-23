@@ -5,10 +5,10 @@
 
 Antes de executar os arquivos, é necessário que o Node.js esteja instalado no seu computador.
 
-### Como verificar a instalação do Node.js
+### Como executar os testes
 
 1. Abra o terminal.
-2. Digite o comando:
+2. Digite o comando para testar o node:
    ```bash
    node -v
 3. A partir da root, entre na pasta com o comando: 
