@@ -12,11 +12,16 @@ Antes de executar os arquivos, é necessário que o Node.js esteja instalado no 
    ```bash
    node -v
 3. A partir da root, entre na pasta com o digite o comando: 
-    cd Desafios
-4. Execute os testes com o comando:
-    node [nome do arquivo].js
-    ex: node desafio1.js
-    
+   ```bash
+   cd Desafios
+5. Execute os testes com o comando:
+   ```bash
+   node [nome do arquivo].js
+   ```
+   ex: 
+      ```bash
+   node desafio1.js
+   ``` 
 Técnica:
 
 1) Observe o trecho de código abaixo: int INDICE = 13, SOMA = 0, K = 0;
