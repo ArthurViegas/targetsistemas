@@ -1,5 +1,22 @@
-# targetsistemas
 
+# Desafio Target Sistemas
+
+## Pré-requisitos
+
+Antes de executar os arquivos, é necessário que o Node.js esteja instalado no seu computador.
+
+### Como verificar a instalação do Node.js
+
+1. Abra o terminal.
+2. Digite o comando:
+   ```bash
+   node -v
+3. A partir da root, entre na pasta com o digite o comando: 
+    cd Desafios
+4. Execute os testes com o comando:
+    node [nome do arquivo].js
+    ex: node desafio1.js
+    
 Técnica:
 
 1) Observe o trecho de código abaixo: int INDICE = 13, SOMA = 0, K = 0;
