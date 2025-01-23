@@ -11,7 +11,7 @@ Antes de executar os arquivos, é necessário que o Node.js esteja instalado no 
 2. Digite o comando:
    ```bash
    node -v
-3. A partir da root, entre na pasta com o digite o comando: 
+3. A partir da root, entre na pasta com o comando: 
    ```bash
    cd Desafios
 5. Execute os testes com o comando:
